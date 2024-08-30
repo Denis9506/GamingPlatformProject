@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T0rUBgSpbQo=",
+  "success": true,
+  "projectFilePath": "C:\\Den\\IT\\ASP.NET\\GamingPlatformBackend\\GamingPlatformBackend.Core\\GamingPlatformBackend.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\den95\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

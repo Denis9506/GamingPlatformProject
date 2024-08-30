@@ -1,0 +1,17 @@
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\bin\Debug\net8.0\GamingPlatformBackend.Storage.deps.json
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\bin\Debug\net8.0\GamingPlatformBackend.Storage.runtimeconfig.json
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\bin\Debug\net8.0\GamingPlatformBackend.Storage.dll
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\bin\Debug\net8.0\GamingPlatformBackend.Storage.pdb
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\bin\Debug\net8.0\GamingPlatformBackend.Core.dll
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\bin\Debug\net8.0\GamingPlatformBackend.Core.pdb
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\obj\Debug\net8.0\GamingPlatformBackend.Storage.csproj.AssemblyReference.cache
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\obj\Debug\net8.0\GamingPlatformBackend.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\obj\Debug\net8.0\GamingPlatformBackend.Storage.AssemblyInfoInputs.cache
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\obj\Debug\net8.0\GamingPlatformBackend.Storage.AssemblyInfo.cs
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\obj\Debug\net8.0\GamingPlatformBackend.Storage.csproj.CoreCompileInputs.cache
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\obj\Debug\net8.0\GamingPl.51544E62.Up2Date
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\obj\Debug\net8.0\GamingPlatformBackend.Storage.dll
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\obj\Debug\net8.0\refint\GamingPlatformBackend.Storage.dll
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\obj\Debug\net8.0\GamingPlatformBackend.Storage.pdb
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\obj\Debug\net8.0\GamingPlatformBackend.Storage.genruntimeconfig.cache
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Storage\obj\Debug\net8.0\ref\GamingPlatformBackend.Storage.dll

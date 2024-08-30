@@ -1,0 +1,12 @@
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Core\bin\Debug\net8.0\GamingPlatformBackend.Core.deps.json
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Core\bin\Debug\net8.0\GamingPlatformBackend.Core.dll
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Core\bin\Debug\net8.0\GamingPlatformBackend.Core.pdb
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Core\obj\Debug\net8.0\GamingPlatformBackend.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Core\obj\Debug\net8.0\GamingPlatformBackend.Core.AssemblyInfoInputs.cache
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Core\obj\Debug\net8.0\GamingPlatformBackend.Core.AssemblyInfo.cs
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Core\obj\Debug\net8.0\GamingPlatformBackend.Core.csproj.CoreCompileInputs.cache
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Core\obj\Debug\net8.0\GamingPlatformBackend.Core.dll
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Core\obj\Debug\net8.0\refint\GamingPlatformBackend.Core.dll
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Core\obj\Debug\net8.0\GamingPlatformBackend.Core.pdb
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Core\obj\Debug\net8.0\ref\GamingPlatformBackend.Core.dll
+C:\Den\IT\ASP.NET\GamingPlatformBackend\GamingPlatformBackend.Core\obj\Debug\net8.0\GamingPlatformBackend.Core.csproj.AssemblyReference.cache
